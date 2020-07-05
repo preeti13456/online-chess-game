@@ -18,9 +18,3 @@ No Enpesant Pawn Rule
 LICENSE:
 NOT FOR COMMERCIAL USE If you intened to use any of my code for commercial use please contact me and get my permission. If you intend to make money using any of my code please ask my permission.
 
-Run in Gitpod
-You can also run Online Chess Game in Gitpod, a free online dev environment for GitHub:
-
-If you're intersted in a paid subscription with GitPod use the coupon code: TECHWITHTIM19
-
-Open in Gitpod
